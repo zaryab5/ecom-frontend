@@ -1,0 +1,139 @@
+{
+    "stock":[
+        {
+            "value": 40,
+            "heading" : "Laptop"
+        },
+        {
+            "value": 70,
+            "heading": "Shoes"
+        },
+        {
+            "value": 48,
+            "heading": "Cameras"
+        },
+        {
+            "value": 30,
+            "heading":"Jeans"
+        }
+    ],
+
+    "transactions":[
+        {
+            "id" : "1",
+            "quantity" : 40,
+            "amount" : 766,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 12,
+            "amount" : 45,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 22,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "4",
+            "quantity" : 45,
+            "amount" : 1220,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "5",
+            "quantity" : 990,
+            "amount" : 600,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "6",
+            "quantity" : 40,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 4,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 20,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 41,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        }
+    ],
+        "cartProduct":[
+            {
+            "id":122,
+            "name":"Girls Pink Moana Printed Dress",
+            "price":80,
+            "quantity" : 12,
+            "img":"https://m.media-amazon.com/images/I/61jBnY6paeL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+            },
+            {
+                "id":33,
+                "name":"Women Texture Handheld Bag",
+                "price":170,
+                "quantity" : 7,
+                "img":"https://m.media-amazon.com/images/I/817Da7pNmfL._AC_SY695_.jpg"
+                },
+                {
+                    "id":22,
+                    "name":"Cotton Casual Shirt",
+                    "price":20,
+                    "quantity" : 2,
+                    "img":"https://m.media-amazon.com/images/I/61huvPYRPxL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+                    }
+        ]
+    
+   
+}
